@@ -1,0 +1,1 @@
+A category should only show if it has entries, e.g. "OTHER", "WORK", "COMMISIONS" etc.
