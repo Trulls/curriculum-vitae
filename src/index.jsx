@@ -4,17 +4,16 @@ import CV from './components/Cv.jsx';
 
 const experiences = [
   {
-    from: 'Dec 2014',
     type: 'WORK',
-    to: 'Sept 2015',
-    title: 'Software Developer',
-    url: 'http://www.dewire.com/',
-    subtitle: 'Full time',
-    at: 'Dewire',
+    from: 'June 2014',
+    to: 'Sept 2014',
+    title: 'Marketing Coordinator',
+    subtitle: 'Summer Internship',
+    at: 'Sumline, SUP46',
     remarks: [
-      'Software developer with focus on Java/JavaEE',
-      'Backend work',
-      'AngularJs'
+      'Marketing strategies for a startup company',
+      'Marketing strategies and implementation to launch a media application',
+      'Responsible for a campaign focused on increasing reading in Sweden'
     ]
   },
   {
@@ -196,9 +195,9 @@ const experiences = [
 ];
 
 const details = {
-  name: "Simon Ström",
-  email: "simon.strom@gmail.com",
-  phone: "+46 (0) 739 59 09 87",
+  name: "Anna Johansson",
+  email: "annaj9@kth.se",
+  phone: "+46 (0) 73 033 55 85",
   imgurl: "http://s.gravatar.com/avatar/26f491425e1e0507069ee7d86fa058ed?s=80",
   address: {
     street: "Kungshamra 35/A",
@@ -206,8 +205,8 @@ const details = {
     city: "Solna"
   },
   resources: [
-    {title: 'LinkedIn', url: 'https://se.linkedin.com/in/simonstrom'},
-    {title: 'GitHub', url: 'https://github.com/sajmoon/'}
+    {title: 'LinkedIn', url: 'http://se.linkedin.com/in/trulls'},
+    // {title: 'GitHub', url: 'https://github.com/Trulls'}
   ]
 }
 
