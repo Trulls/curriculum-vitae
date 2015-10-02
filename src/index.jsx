@@ -19,6 +19,18 @@ const experiences = [
   },
   {
     type: 'WORK',
+    from: '2015',
+    to: '2015',
+    at: 'SACO, Sveriges Akademikeers Centralorganisation',
+    title: 'Investigator',
+    subtitle: 'Summer Internship',
+    url: 'http://sup46.com',
+    remarks: [
+      'Reasons for and effects of  for work life training in higher education'
+    ]
+  },
+  {
+    type: 'WORK',
     from: '2013',
     to: '2014',
     at: 'THS, Tekniska Högskolans Studentkår',
@@ -42,7 +54,7 @@ const experiences = [
     subtitle: 'Summer Internship',
     url: 'http://www.ericsson.com',
     remarks: [
-      "Evaluation of organizaiton culture's effect on new employees",
+      "Evaluation of organization culture's effect on new employees",
       'Evaluation of GROW, a Ericsson talent management prject'
     ]
   },
