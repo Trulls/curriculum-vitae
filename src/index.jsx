@@ -270,7 +270,7 @@ const experiences = [
     type: 'COMMISSION',
     from: '2004',
     to: '2012',
-    at: 'Lsterhaninge Båtklubbs Ungdomssektion',
+    at: 'Österhaninge Båtklubbs Ungdomssektion',
     title: 'Sailing Instructor and Board member',
     subtitle: '',
     url: 'http://www.obk.se',
@@ -278,6 +278,20 @@ const experiences = [
       'Group dynamics',
       'Leadership',
       'Project planning'
+    ]
+  },
+  {
+    type: 'COMMISSION',
+    from: '2014',
+    to: '2014',
+    at: 'FFS Flemingsbergs Förenade Studentkårer',
+    title: 'Board member',
+    subtitle: '',
+    url: '',
+    remarks: [
+      'Initial member',
+      'Educational focus on regional development',
+      'Building an organization'
     ]
   }
   // ************ OTHER ************
