@@ -11,7 +11,7 @@ const experiences = [
     at: 'Sumline, SUP46',
     title: 'Marketing Coordinator',
     subtitle: 'Summer Internship',
-    url: 'http://www.saco.se',
+    url: 'http://sup46.com',
     remarks: [
       'Marketing strategies for startup',
       'Media consumption'
@@ -24,7 +24,7 @@ const experiences = [
     at: 'SACO, Sveriges Akademikeers Centralorganisation',
     title: 'Investigator',
     subtitle: 'Summer Internship',
-    url: 'http://sup46.com',
+    url: 'http://www.saco.se',
     remarks: [
       'Reasons for and effects of  for work life training in higher education'
     ]
