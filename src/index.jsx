@@ -11,7 +11,7 @@ const experiences = [
     at: 'Sumline, SUP46',
     title: 'Marketing Coordinator',
     subtitle: 'Summer Internship',
-    url: 'http://sup46.com',
+    url: 'http://www.saco.se',
     remarks: [
       'Marketing strategies for startup',
       'Media consumption'
