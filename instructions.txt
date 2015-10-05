@@ -1,4 +1,4 @@
-Save
+*Save*
 
 cd curriculum-vitae
 
@@ -8,9 +8,15 @@ git add .
 git commit -m ""
 git push
 
+git fetch upstream
+git checkout master
+git merge upstream/master
+
+git push
+
 npm run build
 
 surge -p dist
 	"www.annajohansson.me"
 
-Check that it words
+*Check that it works*
