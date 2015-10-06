@@ -300,9 +300,9 @@ const experiences = [
 
 const details = {
   name: "Anna Johansson",
-  email: "annaj9@kth.se",
+  email: "annaj9 at kth.se",
   phone: "+46 (0) 73 033 55 85",
-  imgurl: "http://s.gravatar.com/avatar/cdf8311d54ca1e120d559f2f791aef1d?s=80",
+  imgurl: "http://www.annajohansson.me/annajohansson.jpg",
   address: {
     street: "Kungshamra 35/A",
     zip: "170 70",
